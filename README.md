@@ -13,4 +13,7 @@ const balfazProfile = {
 }
 ```
 }
+
+`npm run build`...
+
 webpage: https://balfaz.dev
