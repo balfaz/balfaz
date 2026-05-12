@@ -7,7 +7,7 @@ const balfazProfile = {
             "Dart", "Vb.net", "C#", "Apogee", "COBOL S/36", "Pascal"],
   "others": ["Flutter", "Node", "Docker", "Tailwind", "Figma", "Express", "GIT"],
   "Wordpress": ["Divi", "Elementor", "Bricks", "Oxygen"],
-  "data storage": ["MSSQL", "MongoDB", "Firebase"],
+  "data storage": ["MSSQL", "MongoDB", "Firebase", "Postgres"],
   "challenge": "If you have a dream in your head, once you
                 start writing it down, it becomes a project."
 }
